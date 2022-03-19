@@ -2,3 +2,12 @@
     grid-area: n;
     background-color: aquamarine;
 }
+
+.item a {
+    color: white;
+}
+
+.item a:hover,
+.item a.active {
+    color: gold;
+}
